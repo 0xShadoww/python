@@ -1,0 +1,1 @@
+#in this lecture there no tryout i wonder why is that lets solve exercise shall we.

@@ -1,0 +1,21 @@
+=== Periodic Table Word Chain Result ===
+Date: 2025-05-17 22:47:16
+Player 1: sheldon - 2 points
+Player 2: leneard - 1 points
+Winner: sheldon
+Used Elements: oxygen, nitrogen, neon
+----------------------------------------
+=== Periodic Table Word Chain Result ===
+Date: 2025-05-17 22:48:56
+Player 1: howard - 2 points
+Player 2: penny - 2 points
+Winner: Tie
+Used Elements: helium, mercury, ytterbium, molybdenum
+----------------------------------------
+=== Periodic Table Word Chain Result ===
+Date: 2025-05-17 22:51:58
+Player 1: testing - 2 points
+Player 2: testing2 - 1 points
+Winner: testing
+Used Elements: xenon, nitrogen, nickel
+----------------------------------------

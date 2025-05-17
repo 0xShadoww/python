@@ -1,0 +1,1 @@
+#this lecture dont have any codeing exercise or a lecture tryouts.
